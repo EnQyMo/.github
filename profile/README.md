@@ -1,4 +1,4 @@
-# Projeto AirQyMO (Air Quality Monitor)
+# Projeto EnQyMO (Environment Quality Monitor)
 
 ## Membros
 - Arthur Poggy 
@@ -10,6 +10,3 @@
 
 ### Líder
 Markus Endler
-
-## Arquitetura do projeto
-Colocar imagem aqui
